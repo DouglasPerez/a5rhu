@@ -1,27 +1,26 @@
 \changetocdepth {4}
 \babel@toc {brazil}{}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{8}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{6}{chapter.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Sobre a InQuesti}}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Histórico da Empresa}{9}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Elementos públicos de planejamento estratégico}{9}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Visão}{9}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Missão}{9}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Valores}{10}{subsection.2.2.3}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Sobre a InQuesti}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Histórico da Empresa}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Elementos públicos de planejamento estratégico}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Visão}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Missão}{7}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Valores}{8}{subsection.2.2.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Mecanismos de recrutamento, seleção e contratação da InQuesti}}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Etapas}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Cronogramas}{11}{section.3.2}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Mecanismos de recrutamento, seleção e contratação da InQuesti}}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Etapas}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cronograma}{9}{section.3.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Análise dos mecanismos de recrutamento, seleção e contratação da InQuesti}}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Reflexão sobre o modelo ideal}{13}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Comparação do atual mecanismo de recrutamento, seleção e contratação da InQuestide com o mecanismo ideal}{14}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Considerações, críticas e aprimoramentos}{14}{section.4.3}%
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Conclusão}{15}{chapter*.9}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Mecanismos de recrutamento, seleção e contratação: apresentação de um modelo alternativo}}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Apresentação de um modelo alternativo}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Cronograma}{12}{subsection.4.1.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Análise dos mecanismos de recrutamento, seleção e contratação}}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Considerações finais}{13}{section.5.1}%
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
