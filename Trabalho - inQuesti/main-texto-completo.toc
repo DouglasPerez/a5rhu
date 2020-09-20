@@ -23,4 +23,6 @@
 \contentsline {section}{\numberline {5.1}Considerações finais}{13}{section.5.1}%
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{15}{section*.9}%
 \vspace {\cftbeforechapterskip }

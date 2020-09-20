@@ -1,0 +1,12 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{aaaa}{a}]{abnt-url-package=url}
+aaaa.
+
+\bibitem[\protect\astroncite{aaaa}{b}]{abnt-etal-cite=0}
+aaaa.
+
+\bibitem[\protect\astroncite{aaaa}{c}]{abnt-etal-list=0}
+aaaa.
+
+\end{thebibliography}

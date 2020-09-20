@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main-texto-completo.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: apa.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: abntex2-options.bib
+Warning--entry type for "abnt-etal-cite=0" isn't style-file defined
+--line 35 of file abntex2-options.bib
+Warning--entry type for "abnt-etal-list=0" isn't style-file defined
+--line 53 of file abntex2-options.bib
+Warning--entry type for "abnt-url-package=url" isn't style-file defined
+--line 199 of file abntex2-options.bib
+Database file #2: referencias.bib
+Warning--empty year in abnt-url-package=url
+Warning--empty year in abnt-etal-cite=0
+Warning--empty year in abnt-etal-list=0
+You've used 3 entries,
+            1940 wiz_defined-function locations,
+            478 strings with 3790 characters,
+and the built_in function-call counts, 578 in all, are:
+= -- 60
+> -- 0
+< -- 0
++ -- 2
+- -- 0
+* -- 42
+:= -- 93
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 15
+chr.to.int$ -- 1
+cite$ -- 6
+duplicate$ -- 30
+empty$ -- 55
+format.name$ -- 0
+if$ -- 115
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 12
+num.names$ -- 0
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 36
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 3
+while$ -- 0
+width$ -- 0
+write$ -- 23
+(There were 6 warnings)
